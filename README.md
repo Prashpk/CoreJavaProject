@@ -1,2 +1,2 @@
 # CoreJavaProject
-#SimplebankingApplication
+#SimpleBankingApplication
